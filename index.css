@@ -102,7 +102,7 @@ h2 {
         width: 55%;
         display: flex;
         padding: 5em 8em 5em 0;
-        margin-top: 7em;
+        margin-top: 5em;
         justify-content: flex-end;
         background-image: url('images/bg-pattern-desktop.svg');
         background-repeat: no-repeat;
@@ -117,7 +117,6 @@ h2 {
         display: block;
         width: 55%;
         position: relative;
-        left: -1.4rem;
     }
     #top-desktop-img {
         display: block;
