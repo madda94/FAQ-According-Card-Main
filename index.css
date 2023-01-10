@@ -74,10 +74,9 @@ h2 {
     }
     #top-mobile-img {
         width: 500px;
-        display: block;
         position: absolute;
-        top: 200px;
-        left: 130px;
+        top: 50px;
+        left: -125px;
     }
     #faq {
         width: 40%;
